@@ -2,7 +2,7 @@ import React from "react";
 
 const TopMenu = () => {
   return (
-    <div className="max-w-3xl mx-auto my-10 text-center space-y-5 md:flex md:justify-between md:items-center">
+    <div className="max-w-3xl mx-auto py-10 text-center space-y-5 md:flex md:justify-between md:items-center">
       <h3 className="text-2xl font-bold">NovelNest</h3>
       <div className="join">
         <div>
