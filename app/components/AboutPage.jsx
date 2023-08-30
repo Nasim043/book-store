@@ -3,7 +3,7 @@ import image1 from '../assets/banner-1.jpg';
 
 const AboutPage = () => {
     return (
-        <div className="max-w-7xl mx-auto min-h-screen flex flex-col md:flex-row items-center justify-center">
+        <div className="max-w-7xl mx-auto min-h-screen flex flex-col md:flex-row items-center justify-center mt-36">
             <div className="md:w-1/2 p-8 rounded-lg md:mr-4 mb-4 md:mb-0">
                 <Image
                     src={image1}
